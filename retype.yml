@@ -1,6 +1,6 @@
 input: src
 output: public
-url: http://kali.docs.cronje.me
+url: http://php.docs.cronje.me
 branding:
   title: CRONJje.ME | PHP Documentation
   label: PHO
