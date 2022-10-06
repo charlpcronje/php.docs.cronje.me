@@ -9,5 +9,7 @@ authors:
     avatar: https://assets.cronje.me/avatars/darker.jpg
 ---
 
+- [PHP Custom Session Handler](./ession.md) 
 - [Preload](./preload.md)
-- [Laravel](laravel/README.md)
+- [Laravel](./laravel/README.md)
+- [Shell Exec](./shellExec/README.md)
