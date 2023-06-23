@@ -1,0 +1,204 @@
+{
+  "version": "3.0.3",
+  "created": "2023-06-23T06:16:54Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "favicon.png"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "php/env/dotenv/index.html"
+    },
+    {
+      "path": "php/env/index.html"
+    },
+    {
+      "path": "php/env/readme.jpeg"
+    },
+    {
+      "path": "php/env/readme.png"
+    },
+    {
+      "path": "php/htaccess/index.html"
+    },
+    {
+      "path": "php/index.html"
+    },
+    {
+      "path": "php/laravel/auth/index.html"
+    },
+    {
+      "path": "php/laravel/cors/index.html"
+    },
+    {
+      "path": "php/laravel/deploy/index.html"
+    },
+    {
+      "path": "php/laravel/directorystructure/index.html"
+    },
+    {
+      "path": "php/laravel/displaydata/index.html"
+    },
+    {
+      "path": "php/laravel/eloquent/index.html"
+    },
+    {
+      "path": "php/laravel/graphql/index.html"
+    },
+    {
+      "path": "php/laravel/homestead/index.html"
+    },
+    {
+      "path": "php/laravel/index.html"
+    },
+    {
+      "path": "php/laravel/installation/index.html"
+    },
+    {
+      "path": "php/laravel/laravel8project/index.html"
+    },
+    {
+      "path": "php/laravel/laravel8vite/index.html"
+    },
+    {
+      "path": "php/laravel/migrations/index.html"
+    },
+    {
+      "path": "php/laravel/permissions/index.html"
+    },
+    {
+      "path": "php/laravel/routing/index.html"
+    },
+    {
+      "path": "php/laravel/servinglaravel/index.html"
+    },
+    {
+      "path": "php/laravel/views/index.html"
+    },
+    {
+      "path": "php/laravel/vite/index.html"
+    },
+    {
+      "path": "php/operators/weird-operators-in-php/index.html"
+    },
+    {
+      "path": "php/preload/index.html"
+    },
+    {
+      "path": "php/session/index.html"
+    },
+    {
+      "path": "php/shellexec/index.html"
+    },
+    {
+      "path": "resources/css/retype.css"
+    },
+    {
+      "path": "resources/fonts/Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources/fonts/Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources/js/config.js"
+    },
+    {
+      "path": "resources/js/lunr.js"
+    },
+    {
+      "path": "resources/js/prism.js"
+    },
+    {
+      "path": "resources/js/retype.js"
+    },
+    {
+      "path": "resources/js/search.json"
+    },
+    {
+      "path": "resources/lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "tags/backend/index.html"
+    },
+    {
+      "path": "tags/chrome/index.html"
+    },
+    {
+      "path": "tags/dev/index.html"
+    },
+    {
+      "path": "tags/developer/index.html"
+    },
+    {
+      "path": "tags/devtools/index.html"
+    },
+    {
+      "path": "tags/extension/index.html"
+    },
+    {
+      "path": "tags/frontend/index.html"
+    },
+    {
+      "path": "tags/helpers/index.html"
+    },
+    {
+      "path": "tags/index.html"
+    },
+    {
+      "path": "tags/js/index.html"
+    },
+    {
+      "path": "tags/laravel/index.html"
+    },
+    {
+      "path": "tags/log/index.html"
+    },
+    {
+      "path": "tags/manifest/index.html"
+    },
+    {
+      "path": "tags/php/index.html"
+    },
+    {
+      "path": "tags/start/index.html"
+    },
+    {
+      "path": "tags/tools/index.html"
+    },
+    {
+      "path": "tags/unocss/index.html"
+    },
+    {
+      "path": "tags/v3/index.html"
+    }
+  ]
+}
