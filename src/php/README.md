@@ -13,3 +13,4 @@ authors:
 - [Preload](./preload.md)
 - [Laravel](./laravel/README.md)
 - [Shell Exec](./shellExec/README.md)
+- [Install Multiple Versions of PHP it the same time on Rocky Linux 8.7](./installMultiplePhp.md)
