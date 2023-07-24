@@ -1,4 +1,5 @@
----: Eloquent ORM | CRONje.ME
+--- 
+title: Eloquent ORM | CRONje.ME
 label: Eloquent ORM
 order: 11
 authors:

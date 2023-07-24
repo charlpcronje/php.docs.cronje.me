@@ -76,7 +76,7 @@ THUD=${GARPLY} # will be defined as `plugh`
 NOT_SKIPPED1=not skipped # will have the value `not`
 ```
 
-> Example `.env` files are available in the [fixtures](./fixtures) directory
+> Example `.env` files are available in the `fixtures` directory
 
 ### Defining Constants
 
@@ -297,13 +297,13 @@ $Loader = (new \system\dotEnv\Loader('path/to/.env'))
 
 The following filters are built into php-dotenv.
 
-= [CallableFilter](./filter/CallableFilter): Wraps a callable and invokes it upon the environment.
-= [LowercaseKeyFilter](./filter/LowercaseKeyFilter): Lowercases all the keys for an environment to a single-depth.
-= [NullFilter](./filter/NullFilter): Returns the environment data without any changes.
-= [RemapKeysFilter](./filter/RemapKeysFilter): Remaps specific keys in a `$config` array to a set of values at a single-depth.
-= [UnderscoreArrayFilter](./filter/UnderscoreArrayFilter): Expands a flat array to a nested array. For example, `['0_Foo_Bar' => 'Far']` becomes `[['Foo' => ['Bar' => 'Far']]]`.
-= [UppercaseFirstKeyFilter](./filter/UppercaseFirstKeyFilter): Uppercases the first letter for all the keys for an environment to a single-depth..
-= [UrlParseFilter](./filter/UrlParseFilter): When there is a key with the suffix `_URL`, this filter uses `parse_url` to add extra data to the environment.
+= `[CallableFilter](./filter/CallableFilter)`: Wraps a callable and invokes it upon the environment.
+= `[LowercaseKeyFilter](./filter/LowercaseKeyFilter)`: Lowercases all the keys for an environment to a single-depth.
+= `[NullFilter](./filter/NullFilter)`: Returns the environment data without any changes.
+= `[RemapKeysFilter](./filter/RemapKeysFilter)`: Remaps specific keys in a `$config` array to a set of values at a single-depth.
+= `[UnderscoreArrayFilter](./filter/UnderscoreArrayFilter)`: Expands a flat array to a nested array. For example, `['0_Foo_Bar' => 'Far']` becomes `[['Foo' => ['Bar' => 'Far']]]`.
+= `[UppercaseFirstKeyFilter](./filter/UppercaseFirstKeyFilter)`: Uppercases the first letter for all the keys for an environment to a single-depth..
+= `[UrlParseFilter](./filter/UrlParseFilter)`: When there is a key with the suffix `_URL`, this filter uses `parse_url` to add extra data to the environment.
 
 ### Static Environment Definition
 

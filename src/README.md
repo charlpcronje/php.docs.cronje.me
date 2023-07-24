@@ -49,7 +49,6 @@ footer:
 
 - [PHP](./php/README.md)
 - [PHP Custom Session Handler](./php/session.md) 
-
 - [Laravel CORS](./php/laravel/cors.md)
 - [Run shell_exec as sudo](./php/shellExec/README.md)
 - [Install Multiple Versions of PHP it the same time on Rocky Linux 8.7](./php/installMultiplePhp.md)

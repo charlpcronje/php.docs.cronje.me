@@ -1,4 +1,5 @@
----: Installation | CRONje.ME
+---
+title: Installation | CRONje.ME
 label: Installation
 order: 10
 authors:
@@ -8,6 +9,7 @@ authors:
     avatar: https://assets.cronje.me/avatars/darker.jpg
 tags: [dev,tools,js,frontend,backend,devtools,php,laravel]
 ---
+
 # Installation
 
 ## Via Laravel Installer

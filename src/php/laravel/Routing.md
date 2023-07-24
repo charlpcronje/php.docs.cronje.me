@@ -1,4 +1,5 @@
----: Routing | CRONje.ME
+---
+title: Routing | CRONje.ME
 label: Routing
 order: 7
 authors:
@@ -8,6 +9,7 @@ authors:
     avatar: https://assets.cronje.me/avatars/darker.jpg
 tags: [dev,tools,js,frontend,backend,devtools,php,laravel]
 ---
+
 # Routing
 
 To get started, let's create our first route. In Laravel, the simplest route is a route to a Closure. Pop open the `app/routes.php` file and add the following route to the bottom of the file:
@@ -27,4 +29,4 @@ Routes can also be attached to controller classes. For example:
     Route::get('users', 'UserController@getIndex');
 ```
 
-This route informs the framework that requests to the `/users` route should call the `getIndex` method on the `UserController` class. For more information on controller routing, check out the [controller documentation](/docs/4.2/controllers).
+This route informs the framework that requests to the `/users` route should call the `getIndex` method on the `UserController` class. For more information on controller routing, check out the controller documentation
